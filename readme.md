@@ -4,6 +4,8 @@ Avant toute chose, l'installation de ces logiciel
 est névéssaire pour que le module fonctionne:
 
 sudo apt-get install etherwake
+
+
 sudo npm i wake-on-lan
 
 (si l'installtion ne fonctionne pas :sudo apt-get update && sudo apt-get upgrade)
