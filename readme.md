@@ -1,7 +1,7 @@
-Prérequis
+PrÃ©requis
 
 Avant toute chose, l'installation de ces logiciel 
-est névéssaire pour que le module fonctionne:
+est nÃ©vÃ©ssaire pour que le module fonctionne:
 
 sudo apt-get install etherwake
 sudo npm i wake-on-lan
@@ -14,5 +14,5 @@ Installation
 
 Utilisation
 
-Pour éveiller un ordinateur une fois la configuration
-terminée, il suffis d'executer le script suivant
+Pour Ã©veiller un ordinateur une fois la configuration
+terminÃ©e, il suffis d'executer le script suivant
