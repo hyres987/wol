@@ -15,4 +15,8 @@ Installation
 Utilisation
 
 Pour éveiller un ordinateur une fois la configuration
-terminée, il suffis d'executer le script suivant
+terminée, il suffis d'executer le script suivant dans gladys:
+
+gladys.modules.wol.wakeonlan()
+
+
