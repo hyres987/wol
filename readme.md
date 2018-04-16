@@ -8,7 +8,8 @@ sudo apt-get install etherwake
 
 sudo npm i wake-on-lan
 
-(si l'installtion ne fonctionne pas :sudo apt-get update && sudo apt-get upgrade)
+(si l'installtion ne fonctionne pas :sudo apt-get update && sudo apt-get upgrade
+et réessayer les commandes précédentes)
 
 Installation
 
